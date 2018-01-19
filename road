@@ -1,0 +1,4 @@
+服务器keras下载trasfor模型，保存另为各个用户/home/hanfang_yang/.keras/models
+outdated模型会重新下载更新
+图片大小过小不满足怎么办，使用cv2的resize
+神经网络：1，图片预处理；2，定义数据产生器，callback函数。。。；3，模型搭建；4，使用交叉验证方法保存最优模型并平均预测
