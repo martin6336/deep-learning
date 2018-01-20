@@ -6,3 +6,4 @@ outdated模型会重新下载更新
 神经网络的截取和其他模型的混合使用，xgboost之类
 使用fcn框架,fcn框架和普通的有区别吗。普通的是连接后使用了两个dense层，他直接连接最后输出就叫fcn了？
 monkey脚本同时使用size，angle feature
+事实正面添加一个angle作用还是很大的，可以尝试添加size
