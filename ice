@@ -11,7 +11,8 @@ monkey脚本同时使用size，angle feature
 
 
 努力方向：
-1,使用不同模型，inception_v3,densenet(这个代码需要从网上当下来）
+1,使用不同模型解决inception_v3和resnet资源不够的问题
 2,添加使用更多的特征，
 3,使用clip以及minmax等等方法调整概率
 4,垃圾回收机制
+5,使用densenet(这个代码需要从网上当下来）
