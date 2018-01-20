@@ -5,4 +5,4 @@ outdated模型会重新下载更新
 注意模型的回收处理，最大化利用资源，防止内存报错
 神经网络的截取和其他模型的混合使用，xgboost之类
 使用fcn框架
-使用size，angle feature
+monkey脚本同时使用size，angle feature
