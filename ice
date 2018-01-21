@@ -16,3 +16,6 @@ monkey脚本同时使用size，angle feature
 3,使用clip以及minmax等等方法调整概率
 4,垃圾回收机制
 5,使用densenet(这个代码需要从网上当下来），pretrain的模型也需要找地方下载
+6,对于一个模型框架下，提高精度的方法：训练多个模型并且ensemble
+7,使用filter
+8,装内存条
